@@ -1,0 +1,42 @@
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff7f50;
+    padding: 1rem 0;
+}
+
+header h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.message {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
